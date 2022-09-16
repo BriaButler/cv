@@ -1,0 +1,180 @@
+body {
+    margin : 0
+}
+a  {
+    color: #BB1542;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.cpu{ 
+
+    float:left;
+    width: 130px;
+    height: 130px;
+}
+.lang {
+    width:55%;
+    text-align: left;
+    float: right;
+}
+.work {
+   float: right;
+   width: 150px;
+   height: 150px;
+   
+}
+.works{
+    margin-left: 20px;
+}
+.date {
+    width: 65%;
+    text-align: left;
+    float: right;
+}
+.exp {
+    width: 80%;
+    text-align: right;
+    float: left;
+}
+.star {
+    float: left;
+    width: 170px;
+    height: 200px;
+}
+.sk {
+    width: 70%;
+    text-align: left;
+    float: right;
+}
+.lvl {
+    width: 50%;
+    text-align: right;
+    float: left;
+}
+.button {
+    color: #BB1542;
+    background-color: white;
+    border-top: solid #BB1542;
+    border-bottom: solid #BB1542;
+    border-left: solid #BB1542;
+    border-right: solid #BB1542;
+    padding: 3px 6px;
+}
+.contact {
+    text-align: center;
+    padding-top: 300px;
+}
+.button:hover {
+    color: red;
+    text-decoration: underline;
+}
+.hr1 {
+    border: 1px dashed #FABC74;
+}
+.hr2 {
+    border: 1px dashed #FABC74;
+}
+.hr3 {
+    border: 1px dashed #FABC74;
+}
+.hr4 {
+    border: 1px dashed #FABC74;
+}
+.sun {
+  position: absolute;
+  top: 70px;
+  right: 70px;
+  width: 200px;
+  height: 200px;
+}
+.flower {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  width: 200px;
+  height: 200px;
+}
+.me {
+   
+    border: solid green;
+    width: 400px;
+    border-radius: 50%;
+  
+}
+.name {
+    font-family: "Satisfy", cursive;
+    text-align: center;
+    font-size: 40px;
+    color: #FABC74;
+}
+.info {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 20px;
+    text-align: center;
+    color: #BB1542;
+}
+.greeting{
+    font-family: 'Cutive Mono', monospace;
+    font-size: 20px;
+    text-align: center;
+    color: #BB1542;
+}
+.ms {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 20px;
+    text-align: center;
+    color: #BB1542;
+}
+.lng {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 16px;
+    text-align: center;
+    color: #BB1542;
+}
+.lead {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 20px;
+    text-align: center;
+    color: #BB1542;
+}
+.skill {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 20px;
+    text-align: center;
+    color: #BB1542;
+}
+.top {
+    background-color: #EB5F5D;
+    padding: 230px;
+}
+.middle {
+    text-align: center;
+    padding: 5px;
+}
+.experience {
+    padding: 5px;
+}
+.cpy{
+    text-align: center;
+}
+.bottom {
+    background-color: #EB5F5D;
+    padding: 5px;
+    border-top: solid green;
+    gap: 50px
+}
+.items {
+    width: 45%;
+    text-align: right;
+    float: left;
+}
+.input {
+    width: 53%;
+    text-align: left;
+    float: right;
+    padding-top: 20px;
+}  
